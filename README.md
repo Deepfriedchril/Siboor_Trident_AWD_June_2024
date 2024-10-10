@@ -28,7 +28,7 @@ Vastly improves input shaper graphs and allows for greater accelerations. In pla
   - [ ] [2040 Bracket PG7 Mount](https://www.printables.com/model/1000097-2040-bracket-pg7-mount)
   - *Optional*
 	  - [ ] Reprint Fume Pack with PTFE tube side exits
-		  - *Note* The Fume Pack provided by Siboor has been modified so that both pan wires exit a _new_ hole in the bottom center instead of each fan wire exiting the port on each fan's side as in the source model. It's easy enough to use a drill and add this hole on to the reprinted part.
+		  - *Note* The Fume Pack provided by Siboor has been modified so that both fan wires exit a _new_ hole in the bottom center instead of each fan wire exiting the port on each fan's side as in the source model. It's easy enough to use a drill and add this hole on to the reprinted part.
 
 ### Daylight On A Stick
 | Extra Parts: ✔ | Recommended: 💯 |
