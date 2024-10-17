@@ -1,5 +1,15 @@
 # Siboor Trident AWD June 2024 Mods
 
+| Emoji | Description |
+| ------------ | ----- | 
+| 💯 |  Highly recomended |
+| 👍 | Nice to have |
+| 🤷‍♂️ | Could go either way |
+| 👎 | Not recomended |
+| ❓ | Unknown |
+| ✔ | Yes |
+| ❌ | No | 
+
 ## Hardware Mods
 ### Add 2040 Corner Brackets
 | Extra Parts: ✔ | Recommended: 💯 |
