@@ -81,6 +81,12 @@ On paper a nozzle brush seems like a great idea however after installing one it 
 
 My top panel is already showing a bunch of scratches. At some point I'd like to see how replacing the top, sides, and maybe door panels with glass works out. I got a bunch of glass from a guy that redid windows on his house so these will need to be cut down to size and the edges ground down.  
 
+### XOL Toolhead
+| Extra Parts: ✔ | Recommended: ❓ |
+| -------------- | -------------- |
+
+Seen this toolhaed recomeneded over Stealthburner quite often. Maybe some day I'll try it out.
+
 ## Software Changes
 
 ### Additional Plugins
