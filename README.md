@@ -59,12 +59,17 @@ I did not order the decorative parts from Siboor and used the kit to print the r
 - [ ] [Flat Mesh Skirts](https://github.com/livinhack/Flat_Mesh_Skirt_Remix_for_Siboor_Trident)
 
 ### Panel Clips
-| Extra Parts: ✔ | Recommended: 🤷‍♂️ |
+| Extra Parts: ✔ | Recommended: 💯 |
 | -------------- | ------------------ |
 
-These are an improvement over the standard Voron panel clips but can be a bit brittle with their filament hinges. Once enough break I'll likely try out [Annex clips](https://www.printables.com/model/410806-annex-modified-2020-enclosure-clip).
+#### Filament Latch
+These are an improvement over the standard Voron panel clips but can be a bit brittle with their filament hinges. The actual force applied to the panel does not relay on the filament however.
 - [ ] [Filament Latch](https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extrusion)
 	- Kit comes with 3mm panel and 3mm foam tape. Print a few test sizes before committing to a full set but the size I ended up on were 5.5mm
+
+#### Annex Panel Clips
+Almost no assembly time and flatter profile compared to the Filament Latch but looses some cool factor. These work well but are rough on the finger tips if you have to keep taking panels on and off. They also don't stay attached to the frame after freeing the panel. I decided to try these when I switched to glass panels.
+ - [ ] [Annex Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
 
 ### Nozzle Brush
 | Extra Parts: ✔ | Recommended: 👎 |
@@ -76,10 +81,13 @@ On paper a nozzle brush seems like a great idea however after installing one it 
 - [ ] [Nozzle Scrubber Arm Extension](https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident)
 
 ### Glass Panels
-| Extra Parts: ✔ | Recommended: ❓ |
+| Extra Parts: ✔ | Recommended: 👍 |
 | -------------- | -------------- |
 
-My top panel is already showing a bunch of scratches. At some point I'd like to see how replacing the top, sides, and maybe door panels with glass works out. I got a bunch of glass from a guy that redid windows on his house so these will need to be cut down to size and the edges ground down.  
+My original PC top panel was already showing a bunch of scratches from just a short time using the printer. I got a bunch of glass from a guy that re-did windows on his house that I cut down with a "pen" style glass cutter and ground down the edges with 150 grit sand paper on a palm sander.
+
+Cutting was not difficualt, in fact this was probably my 3rd time ever cutting glass. Just be sure to measure 3 times before cutting as it's basicly impossible to make small adjustments later (with the simple tools I had).
+After cutting, the panel clips needed re-printing since the glass I got was ~1/8th inches == 3.175 mm. Went with the [Annex Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges) this time since they are much simpler to "assemble". See the section above for thoughts about those.
 
 ### XOL Toolhead
 | Extra Parts: ✔ | Recommended: ❓ |
