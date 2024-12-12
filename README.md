@@ -89,6 +89,8 @@ My original PC top panel was already showing a bunch of scratches from just a sh
 Cutting was not difficualt, in fact this was probably my 3rd time ever cutting glass. Just be sure to measure 3 times before cutting as it's basicly impossible to make small adjustments later (with the simple tools I had).
 After cutting, the panel clips needed re-printing since the glass I got was ~1/8th inches == 3.175 mm. Went with the [Annex Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges) this time since they are much simpler to "assemble". See the section above for thoughts about those.
 
+Side note, these make the printer _heavy af_.
+
 ### Foldout Screen
 | Extra Parts: ✔ | Recommended: 👍 |
 | --------------- | --------------- |
