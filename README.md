@@ -89,6 +89,12 @@ My original PC top panel was already showing a bunch of scratches from just a sh
 Cutting was not difficualt, in fact this was probably my 3rd time ever cutting glass. Just be sure to measure 3 times before cutting as it's basicly impossible to make small adjustments later (with the simple tools I had).
 After cutting, the panel clips needed re-printing since the glass I got was ~1/8th inches == 3.175 mm. Went with the [Annex Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges) this time since they are much simpler to "assemble". See the section above for thoughts about those.
 
+### Foldout Screen
+| Extra Parts: ✔ | Recommended: 👍 |
+| --------------- | --------------- |
+
+I designed this because I liked the idea if being able to have the screen flush with the skirts. Turns out it was a lot more difficult to design than I had originally thought but I was able to get it workin in the end. See the [printables page](https://www.printables.com/model/1104995-voron-trident-btt-hdmi-5-fold-out-screen) for details.
+
 ### XOL Toolhead
 | Extra Parts: ✔ | Recommended: ❓ |
 | -------------- | -------------- |
