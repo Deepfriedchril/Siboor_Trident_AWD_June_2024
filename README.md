@@ -55,8 +55,14 @@ Huge quality of life improvement to have built in lights that provide plenty of 
 | Extra Parts: ✔ | Recommended: 👍 |
 | -------------- | --------------- |
 
-I did not order the decorative parts from Siboor and used the kit to print the rest of the parts once it was in a working state. I choose these skirts instead of the stock ones. Primary benefit is not having a bunch of large holes into the electronics bay.
+I did not order the decorative parts from Siboor and used the kit to print the rest of the parts once it was in a working state. I choose these skirts instead of the stock ones. Primary benefit is not having a bunch of large holes into the electronics bay, the other is you can use my Foldout Screen mount below.
 - [ ] [Flat Mesh Skirts](https://github.com/livinhack/Flat_Mesh_Skirt_Remix_for_Siboor_Trident)
+
+### Foldout Screen
+| Extra Parts: ✔ | Recommended: 👍 |
+| --------------- | --------------- |
+
+I designed this because I liked the idea if being able to have the screen flush with the skirts. Turns out it was a lot more difficult to design than I had originally thought but I was able to get it workin in the end. See the [printables page](https://www.printables.com/model/1104995-voron-trident-btt-hdmi-5-fold-out-screen) for details.
 
 ### Panel Clips
 | Extra Parts: ✔ | Recommended: 💯 |
@@ -91,17 +97,11 @@ After cutting, the panel clips needed re-printing since the glass I got was ~1/8
 
 Side note, these make the printer _heavy af_.
 
-### Foldout Screen
-| Extra Parts: ✔ | Recommended: 👍 |
-| --------------- | --------------- |
-
-I designed this because I liked the idea if being able to have the screen flush with the skirts. Turns out it was a lot more difficult to design than I had originally thought but I was able to get it workin in the end. See the [printables page](https://www.printables.com/model/1104995-voron-trident-btt-hdmi-5-fold-out-screen) for details.
-
-### XOL Toolhead
+### XOL/Achetype Toolhead
 | Extra Parts: ✔ | Recommended: ❓ |
 | -------------- | -------------- |
 
-Seen this toolhaed recomeneded over Stealthburner quite often. Maybe some day I'll try it out.
+Seen these toolhaeds recomeneded over Stealthburner quite often. Maybe some day I'll try it out.
 
 ## Software Changes
 
@@ -109,7 +109,8 @@ Seen this toolhaed recomeneded over Stealthburner quite often. Maybe some day I'
 - [ ] [Motors Sync](https://github.com/MRX8024/motors-sync/blob/main/wiki/EN.md)
 	- This plug-in is ran prior to every print to get the motors synced as close as possible.
 - [ ] [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main)
-	- I only use the adaptive line purge from this plug in.
+	- ~I only use the adaptive line purge from this plug in.~
+	- I changed to having the purge line added by the slicer so this plugin is not used any more. 
 - [ ] [Cartographer](https://docs.cartographer3d.com/)
 	- This is included with the base kit however at the time [Survey Touch](https://docs.cartographer3d.com/cartographer-probe/survey-touch/settings-and-commands) was only in beta. Once fully released I flashed my cartographer with survey and use it at the start of every print.
 - [ ] TMC Auto-tune
