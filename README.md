@@ -17,6 +17,7 @@
 
 Simple addition that improves frame rigidity.
 - [ ] 16x 2040 Brackets
+	- I bought mine from [here](https://www.aliexpress.us/item/3256802458987500.html) 
 - [ ] m4x10mm BHSC
 - [ ] m4 roll-in 2020 nuts
 
