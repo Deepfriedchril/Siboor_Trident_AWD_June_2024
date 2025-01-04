@@ -43,6 +43,7 @@ Includes `[bed mesh]` section.
 
 ## Other `.cfg` Files
 | File | Description |
+| ---- | ----------- |
 | `helpers.cfg` | Helper macros |
 | `motor_sync.cfg` | Motor Sync module configuration |
 | `overrides.cfg` | Homing/Z-tilt overrides |
