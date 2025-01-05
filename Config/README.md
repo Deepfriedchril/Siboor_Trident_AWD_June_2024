@@ -47,5 +47,11 @@ Includes `[bed mesh]` section.
 | `helpers.cfg` | Helper macros |
 | `motor_sync.cfg` | Motor Sync module configuration |
 | `overrides.cfg` | Homing/Z-tilt overrides |
-| `print_actions.cfg` | Contains start/stop/pause/resume/cancel/load/unload |
+| `print_actions.cfg` | Print start/stop/pause/resume/cancel/load/unload |
 | `shake_tune.cfg` | Shake tune module configuration |
+
+## Additional Plug-Ins
+- [ ] [Motors Sync](https://github.com/MRX8024/motors-sync/blob/main/wiki/EN.md)
+	- This plug-in is ran prior to every print to get the motors synced as close as possible.
+- [ ] [Cartographer](https://docs.cartographer3d.com/)
+- [ ] TMC Auto-tune
