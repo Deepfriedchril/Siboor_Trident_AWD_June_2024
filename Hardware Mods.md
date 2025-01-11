@@ -32,6 +32,7 @@ Simple addition that improves frame rigidity.
 Helps with wiring and gives additional space for other mods.
 
 - [ ] Install the motors upside-down from what is shown in the manual.
+    * Install the motors with wires facing the sides or rear. **Do not** direct the wires inwards as shown in the photo.
 - [ ] **Invert** the motor step direction for x1 and y1
 
 ### Remove Cable Chain
