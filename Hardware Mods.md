@@ -63,6 +63,8 @@ Huge quality of life improvement to have built in lights that provide plenty of 
 | Extra Parts: ✔ | Recommended: 👍 |
 | -------------- | --------------- |
 
+<img src="Images/Front_Skirt.jpg" width="400">
+
 I did not order the decorative parts from Siboor and used the kit to print the rest of the parts once it was in a working state. I choose these skirts instead of the stock ones. Primary benefit is not having a bunch of large holes into the electronics bay, the other is you can use my Foldout Screen mount below.
 - [ ] [Flat Mesh Skirts](https://github.com/livinhack/Flat_Mesh_Skirt_Remix_for_Siboor_Trident)
 
@@ -106,7 +108,9 @@ After cutting, the panel clips needed re-printing since the glass I got was ~1/8
 Side note, these make the printer _heavy af_.
 
 ### XOL/Achetype Toolhead
-| Extra Parts: ✔ | Recommended: ❓ |
+| Extra Parts: ✔ | Recommended: 👍 |
 | -------------- | -------------- |
 
-Seen these toolhaeds recomeneded over Stealthburner quite often. Currently trying out Achetype Blackbird.
+Seen these toolhaeds recomeneded over Stealthburner quite often. Currently trying out Achetype Blackbird and my first impressions are positive. I was a little worried about ditching the CNC carrige however it seems like the Achetype base is just as rigidge and never needing to ajust belts again is a plus in my mind. Toolhead weight went down ~100g and input shaper graphs look better and have a higher recomended acceleration. 
+
+I have made an extruder block for the [Phaetus Apus 2 extruder](https://www.printables.com/model/1140619-archetype-apus2-extruder-block).
