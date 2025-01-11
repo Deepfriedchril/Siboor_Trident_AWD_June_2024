@@ -114,4 +114,6 @@ Side note, these make the printer _heavy af_.
 
 Seen these toolhaeds recomeneded over Stealthburner quite often. Currently trying out Achetype Blackbird and my first impressions are positive. I was a little worried about ditching the CNC carrige however it seems like the Achetype base is just as rigidge and never needing to ajust belts again is a plus in my mind. Toolhead weight went down ~100g and input shaper graphs look better and have a higher recomended acceleration. 
 
+There is no x limit switch on the stock Archetye so I have switched over to sensorless homing. This works fine on the AWD setup.
+
 I have made an extruder block for the [Phaetus Apus 2 extruder](https://www.printables.com/model/1140619-archetype-apus2-extruder-block).
