@@ -15,6 +15,8 @@
 | Extra Parts: ✔ | Recommended: 💯 |
 | -------------- | --------------- |
 
+<img src="Images/Corner_Brackets.jpg" width="300">
+
 Simple addition that improves frame rigidity.
 - [ ] 16x 2040 Brackets
 	- I bought mine from [here](https://www.aliexpress.us/item/3256802458987500.html) 
@@ -25,7 +27,10 @@ Simple addition that improves frame rigidity.
 | Extra Parts: ❌ | Recommended: 💯 |
 | -------------- | --------------- |
 
+<img src="Images/Flip_Rear_Motors.jpg" width="400">
+
 Helps with wiring and gives additional space for other mods.
+
 - [ ] Install the motors upside-down from what is shown in the manual.
 - [ ] **Invert** the motor step direction for x1 and y1
 
@@ -44,6 +49,8 @@ Vastly improves input shaper graphs and allows for greater accelerations. In pla
 ### Daylight On A Stick
 | Extra Parts: ✔ | Recommended: 💯 |
 | -------------- | --------------- |
+
+<img src="Images/Daylight_w_Baffle.jpg" width="300">
 
 Huge quality of life improvement to have built in lights that provide plenty of light on the build plate.
 - [ ] [Daylight on a Stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight)
