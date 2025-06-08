@@ -1,4 +1,4 @@
 # Changes to FLAP
-`8de47129bfa756452cb71d1160cdedf9665e09a2`
+`b8de0a71ff493c4a029805cbc9e77f02492ce0fd`
 
-* Hide all intermediary macros
+[See my fork of FLAP](https://github.com/Deepfriedchril/FLAP/commit/b8de0a71ff493c4a029805cbc9e77f02492ce0fd) for details
