@@ -49,11 +49,11 @@ Includes `[bed mesh]` section.
 | `overrides.cfg` | Homing/Z-tilt overrides |
 | `print_actions.cfg` | Print start/stop/pause/resume/cancel/load/unload |
 | `shake_tune.cfg` | Shake tune module configuration |
-| `flap_main.cfg` and `flap_temp_control.cfg` | Filament loading and unloading via [FLAP](https://github.com/spooknik/FLAP)
+| `flap_main.cfg` and `flap_temp_control.cfg` | Filament loading and unloading via [FLAP](https://github.com/Deepfriedchril/FLAP)
 
 ## Additional Plug-Ins
 - [ ] [Motors Sync](https://github.com/MRX8024/motors-sync/blob/main/wiki/EN.md)
 	- This plug-in is ran prior to every print to get the motors synced as close as possible.
 - [ ] [Cartographer](https://docs.cartographer3d.com/)
 - [ ] [TMC Auto-tune](https://github.com/andrewmcgr/klipper_tmc_autotune)
-- [ ] [FLAP](https://github.com/spooknik/FLAP)
+- [ ] [FLAP](https://github.com/Deepfriedchril/FLAP)
