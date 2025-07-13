@@ -117,3 +117,16 @@ Seen these toolhaeds recomeneded over Stealthburner quite often. Currently tryin
 There is no x limit switch on the stock Archetye so I have switched over to sensorless homing. This works fine on the AWD setup.
 
 I have made an extruder block for the [Phaetus Apus 2 extruder](https://www.printables.com/model/1140619-archetype-apus2-extruder-block).
+
+
+### HULA
+| Extra Parts: ✔ | Recommended: 👍 |
+| -------------- | -------------- |
+
+More than likely, you have already seen a video about HULA. While they do not improve printer performace the do improve the user experiance if your printer sits on the same desk you work at.
+
+I designed a custom foot that pops into the stock rubber feet which makes HULA easy to use.
+
+- [ ] [HULA](https://www.printables.com/model/898357-hula-v10-for-voron-printers)
+- [ ] [Custom Foot Mount](https://www.printables.com/model/1318369-cylindrical-rubber-foot-adaptor-for-hula)
+
